@@ -5,7 +5,7 @@ public class Main {
 
         for (int i = 0; i < 1000000; i++) { // Inefficient loop
             if (i == 999999) {
-                System.out.println("Finished!");
+                System.out.println("Finished running loop.");
             }
         }
     }
